@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function MainPage() {
   return (
-    <div>MainPage</div>
+    <div>
+        <h1>Игровая статистика NBA</h1>
+    </div>
   )
 }
